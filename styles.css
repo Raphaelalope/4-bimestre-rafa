@@ -1,0 +1,29 @@
+body {
+    color: rgb(7, 3, 3);
+    background: rgb(8, 6, 6);
+    margin: 0px;
+    font-family: 'Chakra Petch', sans-serif;
+    
+ }
+ 
+ header {
+    border-bottom: solid 2px rgb(0, 235, 203);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 235, 203);
+ }
+ /* código omitido */
+ 
+ /* código omitido */
+ 
+ section {
+    background: rgb(118, 120, 233);
+    padding-bottom: 85px;
+    padding-top: 85px;
+    display: flex;
+    justify-content: center;
+ }
+ 
+ .chamada-texto {
+    margin-right: 10%;
+ }
